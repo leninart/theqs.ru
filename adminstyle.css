@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.adminpanel{
+	width: 100%;
+	background: red;
+}
+.hello{
+	background: #999;
+	display: inline-block;
+	border: 1px solid green;
+	font: 1.5em Arial;
+	}
+.panel{
+	margin: 10px;
+	background: yellow;
+}
+tr:hover{
+	background: green;
+}
+.add{
+	width: 50px;
+}
